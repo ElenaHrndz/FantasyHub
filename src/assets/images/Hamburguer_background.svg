@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="64px" viewBox="0 0 80 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03_PRUEBA_EH_Detalle_Comunidad" transform="translate(-1360.000000, 0.000000)">
+            <g id="Header">
+                <g id="Group-2" transform="translate(1360.000000, 0.000000)">
+                    <path d="M68,-4 C62.1052632,-4 56.2105263,-2.18604651 50.3157895,1.44186047 L20.4705882,18.1860465 C9.49019608,23.7674419 4,31.3613365 4,40.9677305 C4,50.5741244 4,59.5848809 4,68 L68,68 C68,20 68,-4 68,-4 Z" id="Path-2" fill="#87F96E" transform="translate(36.000000, 32.000000) scale(-1, -1) rotate(-270.000000) translate(-36.000000, -32.000000) "></path>
+                    <rect id="Rectangle" fill="#87F96E" x="68" y="0" width="12" height="64"></rect>
+                    <g id="Group" transform="translate(34.000000, 25.000000)" stroke="#062F4F" stroke-linecap="round" stroke-width="2.88">
+                        <path d="M0,0.5 L24,0.5" id="Line"></path>
+                        <path d="M0,16.5 L24,16.5" id="Line"></path>
+                        <path d="M0,8.5 L16,8.5" id="Line"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
